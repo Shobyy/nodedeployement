@@ -1,0 +1,22 @@
+
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "lodash": "latest",
+    "request": "^2.88.0",
+    "yargs": "^12.0.5"
+  },
+  "main": "Example.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DeployingWebsite.js"
+  },
+  "author": "SHOAIB",
+  "license": "ISC",
+  "description": ""
+}
